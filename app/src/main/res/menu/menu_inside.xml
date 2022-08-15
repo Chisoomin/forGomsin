@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/main"
+        android:title="메인화면" />
+    <item
+        android:id="@+id/percentage"
+        android:title="달성률" />
+    <item
+        android:id="@+id/daliy"
+        android:title="캘린더" />
+    <item
+        android:id="@+id/tip"
+        android:title="계급별 정보" />
+</menu>
